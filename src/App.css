@@ -11,10 +11,16 @@ body {
   min-height: 100vh;
   display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(10px + 1.5vmin);
   color: white;
 }
 
 .App-link {
   color: #09d3ac;
+}
+
+button {
+  width: 120px;
+  padding: 0.5em;
+  font-size: 1rem;
 }
