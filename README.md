@@ -1,6 +1,6 @@
 # Learn React Hooks
 
-Hi! I'm [Alexander Cannon](https://alex-cannon.github.io/portfolio) and I made this repo for YOU to easily learn React Hooks. [Watch my free React Hooks Crash Course on YouTube](https://www.youtube.com/watch?v=v-FlQqohL6A&list=PLCl9m6jQF0CKT_5G52qZJsp2ejK9we_pr) to learn everything you need to know about React Hooks.
+Hi! I'm [Alexander Cannon](https://alex-cannon.github.io/portfolio) and I made this repo for you to easily learn React Hooks. [Watch my free React Hooks Crash Course on YouTube](https://www.youtube.com/watch?v=v-FlQqohL6A&list=PLCl9m6jQF0CKT_5G52qZJsp2ejK9we_pr) to learn everything you need to know about React Hooks.
 
 Feel free to pull this repo locally and follow along with my videos or just play around with Hooks.
 
