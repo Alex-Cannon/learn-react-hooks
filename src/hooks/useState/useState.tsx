@@ -6,7 +6,7 @@ export default () => {
 
   return (
     <>
-      <p>{count}</p>
+      <h1>{count}</h1>
       <button onClick={() => setCount(count + 1)}>Add 1</button>
     </>
   );
@@ -34,7 +34,7 @@ export class UseStateExample extends React.Component<Props, State> {
 
     return (
       <>
-      <p>{count}</p>
+      <h1>{count}</h1>
         <button onClick={() => this.setCount(count + 1)}>Add 1</button>
       </>
     );
