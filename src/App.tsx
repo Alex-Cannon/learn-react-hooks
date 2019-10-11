@@ -3,6 +3,7 @@ import './App.css';
 
 import { UseStateExample } from './hooks/useState/useState';
 import UseEffectExample from './hooks/useEffect/useEffect';
+import UseContextExample from './hooks/useContext/useContext';
 
 const HOOKS = [{
   title: "I hereby declare useState!",
@@ -10,10 +11,13 @@ const HOOKS = [{
 }, {
   title: "You used useEffect. It was Super Effective!",
   component: UseEffectExample
+}, {
+  title: "useContext rocks.",
+  component: UseContextExample
 }];
 
 const App: React.FC = () => {
-  let [index, setIndex] = useState(0);
+  let [index, setIndex] = useState(HOOKS.length - 1);
 
   const HookExample = HOOKS[index].component;
 
